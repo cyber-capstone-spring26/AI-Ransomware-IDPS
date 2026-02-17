@@ -1,4 +1,4 @@
-# &nbsp;AI-Based Ransomware IDPS
+# \# AI-Based Ransomware IDPS
 
 # 
 
